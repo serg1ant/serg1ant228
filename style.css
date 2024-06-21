@@ -1,0 +1,19 @@
+.textarea{
+    margin-top: 20px;
+    width: 380px;
+    height: 200px;
+}
+
+body{
+     background-image: linear-gradient(90deg, #bdc3c7,#6c8196);
+     height: 100dvh;
+}
+
+.form1{
+    display: grid;
+    border: 4px solid rgb(255, 255, 255);
+    width: 450px;
+    padding: 10px;
+    justify-content: center;
+    margin-top: 15%;
+}
